@@ -1,0 +1,1 @@
+# T_skor-hesaplama
