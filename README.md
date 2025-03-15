@@ -23,7 +23,7 @@ Bu proje, öğrencilerin sınav sonuçlarını analiz eden bir C programıdır. 
    ```
 2. **Programı derleyin:**
    ```sh
-   gcc -o sinav main.c -lm
+   gcc -o sinav proje.c -lm
    ```
 3. **Programı çalıştırın:**
    ```sh
@@ -61,7 +61,7 @@ CEVAP ANAHTARI:
 ## Dosya Yapısı
 ```
 📂 SinavDegerlendirme
- ├── 📄 main.c        # Programın ana dosyası
+ ├── 📄 proje.c        # Programın ana dosyası
  ├── 📄 README.md     # Proje açıklaması
  ├── 📄 LICENSE       # Lisans bilgileri
 ```
