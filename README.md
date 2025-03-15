@@ -63,5 +63,4 @@ CEVAP ANAHTARI:
 📂 SinavDegerlendirme
  ├── 📄 proje.c        # Programın ana dosyası
  ├── 📄 README.md     # Proje açıklaması
- ├── 📄 LICENSE       # Lisans bilgileri
 ```
